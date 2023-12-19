@@ -1,0 +1,12 @@
+h2{
+    border:2px solid #ffff00;
+    border-color: black;
+    padding:3px green;
+    margin:1px yellow;
+}
+frame{
+    border:green solid pink;
+    background-color:blue;
+    padding:31px;
+    margin:2px;
+}

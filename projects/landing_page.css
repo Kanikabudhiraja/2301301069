@@ -1,0 +1,89 @@
+.container{
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: normal;
+    
+    }
+    .left{
+        float: left;
+        width: 50%;
+        height: 300px;
+        background-size: cover;
+        border-color:whitesmoke;
+        box-sizing:border-box;
+    }
+    .text{
+        float: right;
+        width: 50%;
+        height: 300px;
+        box-sizing: border-box;
+        border-color:whitesmoke;
+    }
+    .left1{
+        float: left;
+        width: 50%;
+        height: 300px;
+        background-size: cover;
+        border-color:whitesmoke;
+        box-sizing:border-box;
+    }
+    .right1{
+        float: right;
+        width: 50%;
+        height: 300px;
+        box-sizing: border-box;
+        border-color:whitesmoke;
+    }
+    .left2{
+        float: left;
+        width: 50%;
+        height: 300px;
+        background-size: cover;
+        border-color:whitesmoke;
+        box-sizing:border-box;
+    }
+    .right2{
+        float: right;
+        width: 50%;
+        height: 300px;
+        box-sizing: border-box;
+        border-color:whitesmoke;
+    }
+    .left3{
+        float: left;
+        width: 50%;
+        height: 300px;
+        background-size: cover;
+        border-color:whitesmoke;
+        box-sizing:border-box;
+    }
+    .right3{
+        float: right;
+        width: 50%;
+        height: 300px;
+        box-sizing: border-box;
+        border-color:whitesmoke;
+        
+    }
+    .image-with-text{
+        float: none;
+        width: 100%;
+        height: 60px;
+        box-sizing: content-box;
+        display:inline-flex;
+        border-color: whitesmoke;
+        
+    
+    }
+    div{
+        width:auto;
+        height: 30px ;
+        border: 2px solid;
+        position:relative;
+        top: 0px;
+        border-color: whitesmoke;
+        white-space: normal;
+        
+    }
